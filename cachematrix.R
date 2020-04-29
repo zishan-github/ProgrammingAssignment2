@@ -51,5 +51,5 @@ cacheSolve <- function(x, ...) {
 #my_matrix$getinverse() #check getinverse function where initial inverse matrix should be NULL 
 #cacheSolve(my_matrix)  # inverse matrix and update parant variable
 #cacheSolve(my_matrix)  # check the matrix is not inverse again as it is updated already 
-#my_matrix$inv         # echo inverse matrix into console
+
 
